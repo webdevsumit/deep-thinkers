@@ -739,7 +739,7 @@ footer a {
 
   .fivth-content .left-info .social-icons {
     margin-top: 30px;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
   }
 
 }
@@ -750,6 +750,27 @@ footer a {
 				justify-content: center;
 				align-items: center;
 				padding:auto;
+}	
+
+.team-info>h5{
+				font-size:1.2em;
+				margin-bottom:4px;
+}
+
+.team-info>em{
+				font-size:0.9em;
+				opacity:0.7;
+}
+
+
+.team-info>p{
+				margin-top:10px;
+				margin-bottom:10px;
+}
+
+.team-info>span>a{
+				margin:5px;	
+				font-weight:500;
 }
 
 .profile-img{
@@ -760,6 +781,13 @@ footer a {
 				border-bottom:2px solid grey;
 }
 
+
+.my-work-img{
+				width:20px !important;
+				height:20px;
+				margin-right:5px;
+}
+												
 
 /*
 ========================================
