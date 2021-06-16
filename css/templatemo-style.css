@@ -10,6 +10,10 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 
+.m-20{
+				margin-top:20px;
+}
+
 p {
   font-size: 14px;
   color: #5a5a5a;
