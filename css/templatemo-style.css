@@ -14,6 +14,11 @@ body {
 				margin-top:20px;
 }
 
+.left-about-text-margin{
+  padding: 20px !important;
+}
+
+
 p {
   font-size: 14px;
   color: #5a5a5a;
